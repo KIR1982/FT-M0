@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tarea-README",
+      "appliesTo": "00-Intro-GIT-HTML-CSS/02. Git/homework/README.md",
+      "type": "launch"
+    }
+  ]
+}
